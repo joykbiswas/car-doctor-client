@@ -17,7 +17,7 @@ const BookService = () => {
         const booking = {
             customerName: name, 
             email, 
-            img,
+            img:img,
             date, 
             service: title,
             service_id: _id, 
